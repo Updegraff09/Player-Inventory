@@ -1,2 +1,2 @@
 # Player-Inventory
-Daily Python Fun Challenge
+Daily Python Challenge
